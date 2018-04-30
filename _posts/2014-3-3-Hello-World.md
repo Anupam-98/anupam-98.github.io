@@ -14,6 +14,7 @@ These are the three errors often happend when we try to create a model
 Let's understand what these are errors are and how we can control it
 
 ## What Is Bais error ?
+![baiserror.png]({{site.baseurl}}/_posts/baiserror.png)
 
 
 
