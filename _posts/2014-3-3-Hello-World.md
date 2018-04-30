@@ -21,6 +21,9 @@ In this picture above the points are scattered in the 2D plane between size and 
 
 Let's Take Another Example of K nearest neighbour to understand bais error more clearly
 
+![baiserror.png]({{site.baseurl}}/images/20nearestneigh.png)
+
+Above Image of decision boundary of knn when k = 20 
 
 
 
