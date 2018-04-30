@@ -37,7 +37,7 @@ In the above image  the data point scatter in the 2D Surface. In third image we 
 
 ![baiserror.png]({{site.baseurl}}/images/biasvariance.png)
 
-Above Image show the 2D graph between Error and Model Complexity and  by looking at this we can clearly Understand the relationship between variance and bias 
+Above Image show the 2D Surface between Error and Model Complexity and  by looking at this we can clearly Understand the relationship between variance and bias 
 
 When the Model complexity is minimum that means less than the **optimal model complexity line** the variance is small and the bias is very high ,Where as when the Model complexity is maximum that means higher than the **optimal model complexity line** result in high variance and small bias.
 
