@@ -23,7 +23,14 @@ Let's Take Another Example of K nearest neighbour to understand bais error more 
 
 ![baiserror.png]({{site.baseurl}}/images/20nearestneigh.png)
 
-Above Image of decision boundary of knn when k = 20 
+Image shown above shows the decision boundary between positive and negative point since the value of k = 20 
+the descision boundary is more smoother , but we can see that as we increase the value of k the decision boundary is become more smoother and will utimately increase the Bias error that result in **underfitting**
+
+## What is Variance error ?
+![baiserror.png]({{site.baseurl}}/images/baiserror.png)
+
+When ever we work on any data set we used to seprate the training data , cross validation data and the test data .We use training data to train the model for future unseen data but if any small change in the training data completely changes the model than it means we have **high variance error** which result in overfitting
+
 
 
 
