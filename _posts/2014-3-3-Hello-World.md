@@ -17,7 +17,7 @@ Let's understand what these  errors are and how we can control it
 ![baiserror.png]({{site.baseurl}}/images/baiserror.png)
 
 Bais error occur when we make simplifying assumption.
-In this picture above the points are scattered in the 2D plane between size and price in the first image, We have created a simple plane to seprate the points but this plane is unable to seprate these point perfectly ,Here we are making the simplefiying assumpting that causing High Bais which ultimately leads to **Underfitting**
+In this picture above the points are scattered in the 2D Surface between size and price in the first image, We have created a simple plane to seprate the points but this plane is unable to seprate these point perfectly ,Here we are making the simplifiying assumpting that causing High Bais which ultimately leads to **Underfitting**
 
 Let's Take Another Example of K nearest neighbour to understand bais error more clearly
 
@@ -31,7 +31,7 @@ the descision boundary is more smoother , but we can see that as we increase the
 
 When ever we work on any data set we used to seprate the training data , cross validation data and the test data .We use training data to train the model for future unseen data but if any small change in the training data completely changes the model than it means we have **high variance error** which result in overfitting
 
-In the above image  the data point scatter in the 2D plane. In third image we can see that plane is overfitting the points that result in **High Variance error** which lead to overfitting problem 
+In the above image  the data point scatter in the 2D Surface. In third image we can see that plane is overfitting the points that result in **High Variance error** which lead to overfitting problem 
 
 ## Relationship between Variance and Bias error?
 
