@@ -8,7 +8,7 @@ Machine Learning is all about creating the models ,But when we try create models
 Bais Variance Tradeoff can be broke down into three part :
 - Bais
 - variance
-- irreducible error
+- irreducible error (This error we cannot control)
 
 These are the three errors often happend when we try to create a model
 Let's understand what these  errors are and how we can control it
@@ -53,9 +53,6 @@ In order to keep both bias and variance error low we have to find the **optimal 
         
 For More information about Bias variance tradeoff click in the link below
 [wiki page of bias variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
-
-
-
 
 
 
