@@ -31,7 +31,7 @@ the descision boundary is more smoother , but we can see that as we increase the
 
 When ever we work on any data set we used to seprate the training data , cross validation data and the test data .We use training data to train the model for future unseen data but if any small change in the training data completely changes the model than it means we have **high variance error** which result in overfitting
 
-As we can see the above image of the data point scatter in the 2D plane if we see the third image we can see that plane is overfitting the points that result in **High Variance error** which lead to overfitting problem 
+In the above image  the data point scatter in the 2D plane. In third image we can see that plane is overfitting the points that result in **High Variance error** which lead to overfitting problem 
 
 ## Relationship between Variance and Bias error?
 
