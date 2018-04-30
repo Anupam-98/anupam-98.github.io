@@ -35,7 +35,7 @@ As we can see the above image of the data point scatter in the 2D plane if we se
 
 ## Relationship between Variance and Bias error?
 
-
+![baiserror.png]({{site.baseurl}}/images/baisvariance.png)
 
 
 
