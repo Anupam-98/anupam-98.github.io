@@ -17,7 +17,7 @@ Let's understand what these  errors are and how we can control it
 ![baiserror.png]({{site.baseurl}}/_posts/baiserror.png)
 
 Bais error occur when we make simplifying assumption.
-In this picture above the points are scattered in the 2D plane between size and price in the first image we have created a simple plan to seprate the points 
+In this picture above the points are scattered in the 2D plane between size and price in the first image, We have created a simple plan to seprate the points but this plane is unable to seprate these point perfectly although we can create more complex 
 
 
 
