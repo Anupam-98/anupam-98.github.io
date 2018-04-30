@@ -44,6 +44,18 @@ When the Model complexity is minimum that means less than the **optimal model co
 From the above graph we can see that as the model complexity increases or we can say that in knn when k decreses from higher value than bais decreses sharply as we can see in the graph and variance increases slowly  but after the optimal k value when k decreases furthermore the variance increases sharply and bias decreases slowely .
 
 
+## How to keep bais and variance error low?
+
+In order to keep both bias and variance error low we have to find the **optimal model complexity line** where both bias and variance error is low.
+  ### How to find the best optimal model complexity line?
+  		Let's talk about knn or k nearest neighbour classification algorithm in which we find the optimal k by 
+        K-Fold cross validation method in the same way we have to use methods to come up with best fit line so 			that these error is remain minimum	
+        
+For More information about Bias variance tradeoff click in the link below
+[wiki page of bias variance tradeoff](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+
+
+
 
 
 
