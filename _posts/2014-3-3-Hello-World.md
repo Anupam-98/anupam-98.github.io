@@ -3,8 +3,19 @@ layout: post
 title: Bais Variance Tradeoff
 published: true
 ---
-Machine Learning is all about creating the models ,But when we try create models we encounter many errors and one of the most important error in machine learning which is called 
-**Bais Variance Tradeoff**
+Machine Learning is all about creating the models ,But when we try create models we encounter many errors and one of the most important error in machine learning which is called **Bais Variance Tradeoff**
+
+Bais Variance Tradeoff can be broke down into three part :
+- Bais
+- variance
+- irreducible error
+
+These are the three errors often happend when we try to create a model
+Let's understand what these are errors are and how we can control it
+
+## What Is Bais error ?
+
+
 
 
 
