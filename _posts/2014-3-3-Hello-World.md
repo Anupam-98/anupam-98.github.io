@@ -35,7 +35,7 @@ In the above image  the data point scatter in the 2D plane. In third image we ca
 
 ## Relationship between Variance and Bias error?
 
-![baiserror.png]({{site.baseurl}}/images/baisvariance.png)
+![baiserror.png]({{site.baseurl}}/images/biasvariance.png)
 
 Above Image show the 2D graph between Error and Model Complexity and  by looking at this we can clearly Understand the relationship between variance and bias 
 
